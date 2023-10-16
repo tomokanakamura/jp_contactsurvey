@@ -5,7 +5,9 @@ All datasets required to repoduce the figures in the manuscript are saved in the
 
 - Each R script corresponds to the figure shown in the manuscript. 
 
-- The R script labeled as “Fig2_Table3_Multivariable_Regression_Model_clean” provides the code necessary to run the multivariable regression model and the output shown on Table 3. To check the model fit, this provides the code necessary to run the residual plots also shown on Supp. Figure 5. This R script also provides the code for Figure 2 that shows the distribution of contacts reported per individual during the weekday in February 2023. 
+- The R script labeled as “Fig2_Table3_Multivariable_Regression_Model_clean” provides the code necessary to run the multivariable regression model and the output shown on Table 3. To check the model fit, this provides the code necessary to run the residual plots also shown on Supp. Figure 5. This R script also provides the code for Figure 2 that shows the distribution of contacts reported per individual during the weekday in February 2023.
+  
+- Please refer to the data dictionary labeled as "datadictionary_multivariablereg_model.pdf" for the multivariable regression model.
 
 - When running the R scripts necessary for Figure 1, please use the CSV files included in the folder named “CSV.” 
 
