@@ -1,5 +1,6 @@
 # jp_contactsurvey
-This repository includes R scripts and datasets to analyze the social contact surveys conducted in Osaka and Fukuoka prefectures, Japan from 2021 to 2023.
+This repository includes R scripts and processed datasets to analyze the social contact surveys conducted in Osaka and Fukuoka prefectures, Japan from 2021 to 2023.
+All datasets required to repoduce the figures in the manuscript are saved in the CSV and RDS folders. 
 
 - Each R script corresponds to the figure shown in the manuscript. 
 
