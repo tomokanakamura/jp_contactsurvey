@@ -1,4 +1,4 @@
-# jp_contactsurvey
+# Code for paper "Continuing to be Cautious: Japanese Contact Patterns during the COVID-19 Pandemic and their Association with Public Health Recommendations"
 This repository includes R scripts and processed datasets to analyze the social contact surveys conducted in Osaka and Fukuoka prefectures, Japan from 2021 to 2023 for the manuscript titled, "Continuing to be Cautious: Japanese Contact Patterns during the COVID-19 Pandemic and their Association with Public Health Recommendations" that is currently  under peer-review.
 
 All datasets required to repoduce the figures in the manuscript are saved in the CSV and RDS folders. 
